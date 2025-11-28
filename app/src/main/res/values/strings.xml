@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MC Mod Vibe IDE</string>
+    <string name="nav_files">Arquivos</string>
+    <string name="nav_editor">Editor</string>
+    <string name="nav_ai">IA</string>
+    <string name="nav_build">Build</string>
+    <string name="nav_settings">Config</string>
+    
+    <string name="ai_prompt_hint">Descreva o que você quer criar...</string>
+    <string name="generate">Gerar</string>
+    <string name="compile">Compilar</string>
+    <string name="download">Download</string>
+    <string name="push_github">Push GitHub</string>
+    <string name="connect_github">Conectar GitHub</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="create">Criar</string>
+    <string name="new_project">Novo Projeto</string>
+    <string name="new_file">Novo Arquivo</string>
+    <string name="settings">Configurações</string>
+    
+    <string name="mod_name">Nome do Mod</string>
+    <string name="mod_id">Mod ID</string>
+    <string name="mod_version">Versão</string>
+    <string name="mc_version">Versão MC</string>
+    <string name="mod_loader">Mod Loader</string>
+    
+    <string name="gemini_api_key">Gemini API Key</string>
+    <string name="github_token">GitHub Token</string>
+    <string name="github_username">GitHub Username</string>
+    <string name="github_repo">Repositório</string>
+    
+    <string name="template_basic">Básico</string>
+    <string name="template_items">Items</string>
+    <string name="template_blocks">Blocos</string>
+    <string name="template_mobs">Mobs</string>
+    <string name="template_dimension">Dimensão</string>
+    <string name="template_empty">Vazio</string>
+</resources>
